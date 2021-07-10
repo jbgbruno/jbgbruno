@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/jbgbruno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jbgbruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbgbruno&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbgbruno&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
