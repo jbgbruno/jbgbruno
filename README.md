@@ -24,4 +24,8 @@
  
   ![Snake animation](https://github.com/jbgbruno/jbgbruno/blob/master/github-contribution-grid-snake.svg)
  
+ 
+ ## Links
+ 
+  <a href="http://brunogomes.ml/gerador-link-whatsapp/" target="_blank">Gerador URL Whatsapp</a>
 </div>
